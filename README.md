@@ -1,5 +1,5 @@
 # Intro to HTML/CSS
-Slides and materials are hosted at [here](https://mariaszubski.github.io/gdi-cincinnati-intro-html-css/index.html#/).
+Slides and materials are hosted [here](https://mariaszubski.github.io/gdi-cincinnati-intro-html-css/index.html#/).
 
 ## Course description
 This is a 4-part, 8-hour course.
